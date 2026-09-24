@@ -296,7 +296,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
-- [Hellomatik](https://hellomatik.com) - Platform to build custom AI agents from a company's own knowledge that answer, sell and book across WhatsApp, email and web.
+- [Hellomatik](https://hellomatik.com) - AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 
 ## Image
 
